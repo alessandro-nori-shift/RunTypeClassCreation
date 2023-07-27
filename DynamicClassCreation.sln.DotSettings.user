@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=59941948_002D3782_002D42f3_002Da546_002D9d8c91fbee8a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NewTypeBuilderTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7405C088-6C4D-4B93-AAEE-743A6C20C814::net6.0::Tests.ReflectionEmitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7405C088-6C4D-4B93-AAEE-743A6C20C814::net6.0::Tests.RoslynTypeBuilderTests.RoslynClassCreationTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=68cc8928_002D8cdc_002D4b8c_002D840f_002D431ea8e1a896/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RoslynClassCreationTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7405C088-6C4D-4B93-AAEE-743A6C20C814::net6.0::Tests.RoslynTypeBuilderTests.RoslynClassCreationTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91f87b2e_002D5e45_002D4471_002Da56f_002Db0609d697c80/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RoslynClassCreationTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7405C088-6C4D-4B93-AAEE-743A6C20C814::net6.0::Tests.RoslynTypeBuilderTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

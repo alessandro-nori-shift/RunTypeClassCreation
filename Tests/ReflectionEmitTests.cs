@@ -9,7 +9,7 @@ public class ReflectionEmitTests
     [Test]
     public void NewTypeBuilderTest()
     {
-        const string myNewTypeName = "MyNetType";
+        const string myNewTypeName = "MyNewType";
         const string myIntPropertyName = "MyIntProperty";
         const int myIntPropertyExpectedValue = 5;
         const string myHashSetPropertyName = "MyHashSetProperty";
